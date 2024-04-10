@@ -22,11 +22,9 @@ Welcome to my GitHub! I'm a seasoned Software Engineer based in Boston, MA, spec
 ### 🎓 Education
 - **Northeastern University, Boston, MA**
   - Master's in Information Systems (May 2024)
-    - Relevant Coursework: Program Structures and Algorithms, Application Design and Development, Advanced Data Science, Web Design and User Experience
 
 - **JSS Academy of Technical Education (JSSATE)**
   - Bachelor's in Computer Science Engineering (2020 - 2025)
-    - Relevant Coursework: Data Structures and Algorithms, Database Management Systems, Object-Oriented Programming, Operating Systems, Compiler Design, Linux System Programming, Distributed Systems
 
 ### 💻 Technical Skills
 ### Programming Languages
